@@ -1,0 +1,1538 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Croatia,HRV,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,15440
+Croatia,HRV,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,15375.9997558594
+Croatia,HRV,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,15088.0004882813
+Croatia,HRV,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,15673.0004882813
+Croatia,HRV,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,13310
+Croatia,HRV,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,13260.9997558594
+Croatia,HRV,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,13338.0004882813
+Croatia,HRV,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,12995.9997558594
+Croatia,HRV,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,12890.9997558594
+Croatia,HRV,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,12020
+Croatia,HRV,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,12300
+Croatia,HRV,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,12110
+Croatia,HRV,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,11760
+Croatia,HRV,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,11960
+Croatia,HRV,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,11810
+Croatia,HRV,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,11780
+Croatia,HRV,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,11690
+Croatia,HRV,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,20320
+Croatia,HRV,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,20480
+Croatia,HRV,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,19410
+Croatia,HRV,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,19350
+Croatia,HRV,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,23320
+Croatia,HRV,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,23120
+Croatia,HRV,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,22720
+Croatia,HRV,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,24040
+Croatia,HRV,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.5911365260901
+Croatia,HRV,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.4767686845236
+Croatia,HRV,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.962116669552
+Croatia,HRV,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.0075062335263
+Croatia,HRV,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.7848463187991
+Croatia,HRV,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.6972833378474
+Croatia,HRV,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.8348829311674
+Croatia,HRV,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.2237308003206
+Croatia,HRV,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.0360967760175
+Croatia,HRV,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.4796283059328
+Croatia,HRV,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.9799857040743
+Croatia,HRV,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.6404574696212
+Croatia,HRV,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.0150107219442
+Croatia,HRV,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.3915220890717
+Croatia,HRV,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.1232337685566
+Croatia,HRV,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.0695761044536
+Croatia,HRV,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,20.9086031121445
+Croatia,HRV,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.3441244857807
+Croatia,HRV,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,36.6302986943302
+Croatia,HRV,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.6730975348339
+Croatia,HRV,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,34.5659163987138
+Croatia,HRV,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.709890896083
+Croatia,HRV,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.3521731353962
+Croatia,HRV,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.6367376140225
+Croatia,HRV,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.9976748345555
+Croatia,HRV,2016,Arable land (% of land area),AG.LND.ARBL.ZS,15.5825589706934
+Croatia,HRV,2015,Arable land (% of land area),AG.LND.ARBL.ZS,15.0839881269825
+Croatia,HRV,2014,Arable land (% of land area),AG.LND.ARBL.ZS,14.5318086527347
+Croatia,HRV,2013,Arable land (% of land area),AG.LND.ARBL.ZS,15.6611869981069
+Croatia,HRV,2012,Arable land (% of land area),AG.LND.ARBL.ZS,16.1972842104014
+Croatia,HRV,2011,Arable land (% of land area),AG.LND.ARBL.ZS,16.023945893621
+Croatia,HRV,2010,Arable land (% of land area),AG.LND.ARBL.ZS,16.1615443962484
+Croatia,HRV,2009,Arable land (% of land area),AG.LND.ARBL.ZS,15.5164400963719
+Croatia,HRV,2008,Arable land (% of land area),AG.LND.ARBL.ZS,15.3806292388676
+Croatia,HRV,2007,Arable land (% of land area),AG.LND.ARBL.ZS,15.2251608291637
+Croatia,HRV,2006,Arable land (% of land area),AG.LND.ARBL.ZS,15.7433881343817
+Croatia,HRV,2005,Arable land (% of land area),AG.LND.ARBL.ZS,15.6004288777698
+Croatia,HRV,2004,Arable land (% of land area),AG.LND.ARBL.ZS,15.1358112937813
+Croatia,HRV,2003,Arable land (% of land area),AG.LND.ARBL.ZS,15.4534072616705
+Croatia,HRV,2002,Arable land (% of land area),AG.LND.ARBL.ZS,15.3460919334645
+Croatia,HRV,2001,Arable land (% of land area),AG.LND.ARBL.ZS,15.2566624932928
+Croatia,HRV,2000,Arable land (% of land area),AG.LND.ARBL.ZS,15.059917724915
+Croatia,HRV,1999,Arable land (% of land area),AG.LND.ARBL.ZS,19.1021284206761
+Croatia,HRV,1998,Arable land (% of land area),AG.LND.ARBL.ZS,19.4777320693972
+Croatia,HRV,1997,Arable land (% of land area),AG.LND.ARBL.ZS,17.5598428010004
+Croatia,HRV,1996,Arable land (% of land area),AG.LND.ARBL.ZS,17.6134333690604
+Croatia,HRV,1995,Arable land (% of land area),AG.LND.ARBL.ZS,19.9785369343588
+Croatia,HRV,1994,Arable land (% of land area),AG.LND.ARBL.ZS,19.7460203899124
+Croatia,HRV,1993,Arable land (% of land area),AG.LND.ARBL.ZS,18.99481309247
+Croatia,HRV,1992,Arable land (% of land area),AG.LND.ARBL.ZS,21.6776962976212
+Croatia,HRV,2010,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,462.1728821
+Croatia,HRV,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,462.1728821
+Croatia,HRV,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,462.1728821
+Croatia,HRV,2010,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.820584988
+Croatia,HRV,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.820584988
+Croatia,HRV,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.820584988
+Croatia,HRV,2010,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,104.4424362
+Croatia,HRV,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,104.4424362
+Croatia,HRV,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,104.4424362
+Croatia,HRV,2010,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.185436876
+Croatia,HRV,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.185436876
+Croatia,HRV,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.185436876
+Croatia,HRV,2010,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.006021864
+Croatia,HRV,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.006021864
+Croatia,HRV,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,1.006021864
+Croatia,HRV,2016,Forest area (sq. km),AG.LND.FRST.K2,19224.0002441406
+Croatia,HRV,2015,Forest area (sq. km),AG.LND.FRST.K2,19220
+Croatia,HRV,2014,Forest area (sq. km),AG.LND.FRST.K2,19215.9997558594
+Croatia,HRV,2013,Forest area (sq. km),AG.LND.FRST.K2,19211.9995117188
+Croatia,HRV,2012,Forest area (sq. km),AG.LND.FRST.K2,19208.0004882813
+Croatia,HRV,2011,Forest area (sq. km),AG.LND.FRST.K2,19204.0002441406
+Croatia,HRV,2010,Forest area (sq. km),AG.LND.FRST.K2,19200
+Croatia,HRV,2009,Forest area (sq. km),AG.LND.FRST.K2,19165.9997558594
+Croatia,HRV,2008,Forest area (sq. km),AG.LND.FRST.K2,19131.9995117188
+Croatia,HRV,2007,Forest area (sq. km),AG.LND.FRST.K2,19098.0004882813
+Croatia,HRV,2006,Forest area (sq. km),AG.LND.FRST.K2,19064.0002441406
+Croatia,HRV,2005,Forest area (sq. km),AG.LND.FRST.K2,19030
+Croatia,HRV,2004,Forest area (sq. km),AG.LND.FRST.K2,18994.0002441406
+Croatia,HRV,2003,Forest area (sq. km),AG.LND.FRST.K2,18958.0004882813
+Croatia,HRV,2002,Forest area (sq. km),AG.LND.FRST.K2,18921.9995117188
+Croatia,HRV,2001,Forest area (sq. km),AG.LND.FRST.K2,18885.9997558594
+Croatia,HRV,2000,Forest area (sq. km),AG.LND.FRST.K2,18850
+Croatia,HRV,1999,Forest area (sq. km),AG.LND.FRST.K2,18815
+Croatia,HRV,1998,Forest area (sq. km),AG.LND.FRST.K2,18780
+Croatia,HRV,1997,Forest area (sq. km),AG.LND.FRST.K2,18745
+Croatia,HRV,1996,Forest area (sq. km),AG.LND.FRST.K2,18710
+Croatia,HRV,1995,Forest area (sq. km),AG.LND.FRST.K2,18675
+Croatia,HRV,1994,Forest area (sq. km),AG.LND.FRST.K2,18640
+Croatia,HRV,1993,Forest area (sq. km),AG.LND.FRST.K2,18605
+Croatia,HRV,1992,Forest area (sq. km),AG.LND.FRST.K2,18570
+Croatia,HRV,1991,Forest area (sq. km),AG.LND.FRST.K2,18500
+Croatia,HRV,1990,Forest area (sq. km),AG.LND.FRST.K2,18500
+Croatia,HRV,2016,Forest area (% of land area),AG.LND.FRST.ZS,34.3531098001083
+Croatia,HRV,2015,Forest area (% of land area),AG.LND.FRST.ZS,34.3459614010007
+Croatia,HRV,2014,Forest area (% of land area),AG.LND.FRST.ZS,34.3388130018931
+Croatia,HRV,2013,Forest area (% of land area),AG.LND.FRST.ZS,34.3316646027856
+Croatia,HRV,2012,Forest area (% of land area),AG.LND.FRST.ZS,34.3245183850631
+Croatia,HRV,2011,Forest area (% of land area),AG.LND.FRST.ZS,34.3173699859553
+Croatia,HRV,2010,Forest area (% of land area),AG.LND.FRST.ZS,34.3102215868478
+Croatia,HRV,2009,Forest area (% of land area),AG.LND.FRST.ZS,34.2494634665107
+Croatia,HRV,2008,Forest area (% of land area),AG.LND.FRST.ZS,34.1887053461737
+Croatia,HRV,2007,Forest area (% of land area),AG.LND.FRST.ZS,34.1279494072218
+Croatia,HRV,2006,Forest area (% of land area),AG.LND.FRST.ZS,34.0671912868846
+Croatia,HRV,2005,Forest area (% of land area),AG.LND.FRST.ZS,34.0064331665475
+Croatia,HRV,2004,Forest area (% of land area),AG.LND.FRST.ZS,33.9421019373492
+Croatia,HRV,2003,Forest area (% of land area),AG.LND.FRST.ZS,33.908067408838
+Croatia,HRV,2002,Forest area (% of land area),AG.LND.FRST.ZS,33.8436764652456
+Croatia,HRV,2001,Forest area (% of land area),AG.LND.FRST.ZS,33.7792877049891
+Croatia,HRV,2000,Forest area (% of land area),AG.LND.FRST.ZS,33.7148989447326
+Croatia,HRV,1999,Forest area (% of land area),AG.LND.FRST.ZS,33.6522983366124
+Croatia,HRV,1998,Forest area (% of land area),AG.LND.FRST.ZS,33.5896977284922
+Croatia,HRV,1997,Forest area (% of land area),AG.LND.FRST.ZS,33.4851732761701
+Croatia,HRV,1996,Forest area (% of land area),AG.LND.FRST.ZS,33.4226509467667
+Croatia,HRV,1995,Forest area (% of land area),AG.LND.FRST.ZS,33.4018959041316
+Croatia,HRV,1994,Forest area (% of land area),AG.LND.FRST.ZS,33.3392952960114
+Croatia,HRV,1993,Forest area (% of land area),AG.LND.FRST.ZS,33.2766946878913
+Croatia,HRV,1992,Forest area (% of land area),AG.LND.FRST.ZS,33.2140940797711
+Croatia,HRV,1991,Forest area (% of land area),AG.LND.FRST.ZS,33.0888928635307
+Croatia,HRV,1990,Forest area (% of land area),AG.LND.FRST.ZS,33.0888928635307
+Croatia,HRV,2016,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.01683936588505
+Croatia,HRV,2013,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.854973470367048
+Croatia,HRV,2010,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.08711946837456
+Croatia,HRV,2009,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.384733771462691
+Croatia,HRV,2007,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.382695499553458
+Croatia,HRV,2006,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.32520325203252
+Croatia,HRV,2005,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.23864574731627
+Croatia,HRV,2004,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.935374149659864
+Croatia,HRV,2003,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,0.752508361204013
+Croatia,HRV,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1113
+Croatia,HRV,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1113
+Croatia,HRV,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1113
+Croatia,HRV,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1113
+Croatia,HRV,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1113
+Croatia,HRV,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1113
+Croatia,HRV,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5714.7
+Croatia,HRV,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6690.9
+Croatia,HRV,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5695
+Croatia,HRV,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6027.8
+Croatia,HRV,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5444.9
+Croatia,HRV,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4573.6
+Croatia,HRV,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5220
+Croatia,HRV,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5456
+Croatia,HRV,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6109.8
+Croatia,HRV,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6639.1
+Croatia,HRV,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4558.1
+Croatia,HRV,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5420.2
+Croatia,HRV,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5592.8
+Croatia,HRV,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5408.9
+Croatia,HRV,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3601
+Croatia,HRV,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5316.2
+Croatia,HRV,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4840.3
+Croatia,HRV,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4114.8
+Croatia,HRV,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4604.2
+Croatia,HRV,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4669
+Croatia,HRV,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5007.9
+Croatia,HRV,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4507.8
+Croatia,HRV,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4365.7
+Croatia,HRV,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4136.9
+Croatia,HRV,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4255.7
+Croatia,HRV,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3972.1
+Croatia,HRV,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.10648693143446
+Croatia,HRV,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.68849266304035
+Croatia,HRV,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.61324148073883
+Croatia,HRV,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.320950194362428
+Croatia,HRV,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.86963900898284
+Croatia,HRV,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.61446604198505
+Croatia,HRV,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.5933528034301
+Croatia,HRV,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.27346265131436
+Croatia,HRV,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.38113483983031
+Croatia,HRV,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.10453323288636
+Croatia,HRV,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,7.38074428031165
+Croatia,HRV,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,7.58915152765748
+Croatia,HRV,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.53858822914129
+Croatia,HRV,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.95339456661866
+Croatia,HRV,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.10879576228372
+Croatia,HRV,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.26493443237047
+Croatia,HRV,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.55668779868024
+Croatia,HRV,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.24580053180858
+Croatia,HRV,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.87689088315066
+Croatia,HRV,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.20665141209787
+Croatia,HRV,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.69430476554205
+Croatia,HRV,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.26845638312796
+Croatia,HRV,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.0772770137085
+Croatia,HRV,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.482004587159491
+Croatia,HRV,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Croatia,HRV,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,20.5552589428724
+Croatia,HRV,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,17.6242929443287
+Croatia,HRV,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,17.3585717358572
+Croatia,HRV,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,21.1271594449165
+Croatia,HRV,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,22.9633582355034
+Croatia,HRV,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,16.1192214111922
+Croatia,HRV,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,12.4008975317876
+Croatia,HRV,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,19.5211642281512
+Croatia,HRV,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,19.3144679155042
+Croatia,HRV,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,17.4649849106245
+Croatia,HRV,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,17.8295167343188
+Croatia,HRV,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,15.3918111822696
+Croatia,HRV,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,18.2231655548817
+Croatia,HRV,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,16.5997638724911
+Croatia,HRV,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,12.8259337561663
+Croatia,HRV,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.770753795614
+Croatia,HRV,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.97626570085536
+Croatia,HRV,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.69704906582853
+Croatia,HRV,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.99169678616782
+Croatia,HRV,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1.0740177212924
+Croatia,HRV,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.60888313928417
+Croatia,HRV,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1.15125954633535
+Croatia,HRV,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.84107068172313
+Croatia,HRV,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,7.86340148281285
+Croatia,HRV,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.71982999664467
+Croatia,HRV,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,7.42661664091812
+Croatia,HRV,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.869549741947
+Croatia,HRV,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,67.0363203334326
+Croatia,HRV,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.8197461819746
+Croatia,HRV,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.6622297743793
+Croatia,HRV,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,44.7616506581288
+Croatia,HRV,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.6788321167883
+Croatia,HRV,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,55.4151084517577
+Croatia,HRV,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.2312025663094
+Croatia,HRV,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,37.4651255480271
+Croatia,HRV,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,51.2032809719105
+Croatia,HRV,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,53.886804013173
+Croatia,HRV,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,54.8823487083543
+Croatia,HRV,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,41.3735597331716
+Croatia,HRV,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.0527351436442
+Croatia,HRV,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.2289562289562
+Croatia,HRV,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.2937938382314
+Croatia,HRV,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.46143176389
+Croatia,HRV,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.5755194691811
+Croatia,HRV,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.1749535996874
+Croatia,HRV,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,70.3750111876846
+Croatia,HRV,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.265631737818
+Croatia,HRV,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.9514419240853
+Croatia,HRV,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,47.5742367210372
+Croatia,HRV,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,48.8541900696473
+Croatia,HRV,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,65.7756403086903
+Croatia,HRV,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.4314720812183
+Croatia,HRV,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,10.6513614522157
+Croatia,HRV,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,7.45757665972016
+Croatia,HRV,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.4905714490571
+Croatia,HRV,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,23.7043330501274
+Croatia,HRV,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,23.310209889719
+Croatia,HRV,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,17.2546634225466
+Croatia,HRV,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,16.5370231862378
+Croatia,HRV,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,19.2394961270636
+Croatia,HRV,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,24.4240733359904
+Croatia,HRV,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.9250947922309
+Croatia,HRV,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,13.8929309948687
+Croatia,HRV,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,17.6944664316039
+Croatia,HRV,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.6231049120679
+Croatia,HRV,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,19.8898071625344
+Croatia,HRV,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.2432072664631
+Croatia,HRV,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,13.9483263784072
+Croatia,HRV,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,9.50913154041766
+Croatia,HRV,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,11.6815086432687
+Croatia,HRV,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,11.438898114682
+Croatia,HRV,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,11.7157433097646
+Croatia,HRV,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,9.51918930573523
+Croatia,HRV,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,20.8936509745811
+Croatia,HRV,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,19.0296946884149
+Croatia,HRV,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.3560997528645
+Croatia,HRV,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,8.25411027849234
+Croatia,HRV,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.0518649304789
+Croatia,HRV,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Croatia,HRV,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.96654208933974
+Croatia,HRV,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.960107174754391
+Croatia,HRV,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.64910016491002
+Croatia,HRV,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.49419427924101
+Croatia,HRV,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.68801138384916
+Croatia,HRV,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.78480670451473
+Croatia,HRV,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,15.056095736724
+Croatia,HRV,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,15.5308661294108
+Croatia,HRV,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,18.4535671582304
+Croatia,HRV,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,15.1744950862803
+Croatia,HRV,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,14.2069388067703
+Croatia,HRV,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,11.9881988918472
+Croatia,HRV,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,24.7801697998787
+Croatia,HRV,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,17.4576938213302
+Croatia,HRV,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,16.7019027484144
+Croatia,HRV,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,14.9782473586078
+Croatia,HRV,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,29.9838175233105
+Croatia,HRV,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,30.9673476514755
+Croatia,HRV,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,26.3846830126013
+Croatia,HRV,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,16.7546764521615
+Croatia,HRV,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,26.5092712376024
+Croatia,HRV,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,15.9352558987803
+Croatia,HRV,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,28.3563362609787
+Croatia,HRV,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,27.858908110537
+Croatia,HRV,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,21.138575103456
+Croatia,HRV,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,31.9686603398808
+Croatia,HRV,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.8268375155722
+Croatia,HRV,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,73.9580232211968
+Croatia,HRV,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.5017566501757
+Croatia,HRV,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,49.6743132257151
+Croatia,HRV,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,47.0384204909285
+Croatia,HRV,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,62.8413084617464
+Croatia,HRV,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,56.0059835452506
+Croatia,HRV,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,45.7084735153744
+Croatia,HRV,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,37.807891590275
+Croatia,HRV,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,51.4354252108644
+Croatia,HRV,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,54.0706134640423
+Croatia,HRV,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,54.9255234942793
+Croatia,HRV,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,41.3735597331716
+Croatia,HRV,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,46.0527351436442
+Croatia,HRV,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,56.2289562289562
+Croatia,HRV,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.302672467371
+Croatia,HRV,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,56.5307852354165
+Croatia,HRV,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,52.6540946394273
+Croatia,HRV,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.1847220865488
+Croatia,HRV,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.4555625167815
+Croatia,HRV,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,61.3626563173782
+Croatia,HRV,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,62.0198335803032
+Croatia,HRV,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,47.7728983688833
+Croatia,HRV,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,48.9215906537857
+Croatia,HRV,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,65.887484621407
+Croatia,HRV,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,45.5528580887221
+Croatia,HRV,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1119000000
+Croatia,HRV,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,930000000
+Croatia,HRV,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,653000000
+Croatia,HRV,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,425000000
+Croatia,HRV,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,256000000
+Croatia,HRV,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,172000000
+Croatia,HRV,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,79000000
+Croatia,HRV,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,61000000
+Croatia,HRV,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,43000000
+Croatia,HRV,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,30000000
+Croatia,HRV,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,24000000
+Croatia,HRV,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,6000000
+Croatia,HRV,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Croatia,HRV,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Croatia,HRV,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Croatia,HRV,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1000000
+Croatia,HRV,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,9000000
+Croatia,HRV,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,9000000
+Croatia,HRV,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1000000
+Croatia,HRV,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,9000000
+Croatia,HRV,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,9000000
+Croatia,HRV,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,6000000
+Croatia,HRV,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,19000000
+Croatia,HRV,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,6000000
+Croatia,HRV,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,10000000
+Croatia,HRV,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,11000000
+Croatia,HRV,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,9.9572877736252
+Croatia,HRV,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.92170288776422
+Croatia,HRV,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.68201046820105
+Croatia,HRV,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.01208345133579
+Croatia,HRV,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.27676983279972
+Croatia,HRV,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.1624763449581
+Croatia,HRV,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.590875093492895
+Croatia,HRV,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.477270949065018
+Croatia,HRV,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.342766042247908
+Croatia,HRV,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.232144238953803
+Croatia,HRV,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.183809450869266
+Croatia,HRV,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0431747859250198
+Croatia,HRV,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Croatia,HRV,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Croatia,HRV,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Croatia,HRV,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.00887862913966084
+Croatia,HRV,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.069353471526547
+Croatia,HRV,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0785751702462022
+Croatia,HRV,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.00976848686138517
+Croatia,HRV,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0805513290969301
+Croatia,HRV,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0970245795601552
+Croatia,HRV,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0683916562179414
+Croatia,HRV,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.19866164784609
+Croatia,HRV,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0674005841383959
+Croatia,HRV,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.111844312716698
+Croatia,HRV,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.121386007503862
+Croatia,HRV,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.1274666358571
+Croatia,HRV,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.6481912689857
+Croatia,HRV,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.8375105987798
+Croatia,HRV,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.4219488727739
+Croatia,HRV,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.1862393886566
+Croatia,HRV,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.7750473065786
+Croatia,HRV,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.1782564634504
+Croatia,HRV,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.1559113463947
+Croatia,HRV,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.6721558894394
+Croatia,HRV,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.5172157785772
+Croatia,HRV,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.8368896995131
+Croatia,HRV,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.585237807356
+Croatia,HRV,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.8401386994077
+Croatia,HRV,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.6311824536051
+Croatia,HRV,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.9454983529558
+Croatia,HRV,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.7881802617319
+Croatia,HRV,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.810841837998
+Croatia,HRV,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.1143994570977
+Croatia,HRV,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.211150683095
+Croatia,HRV,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.1265044303859
+Croatia,HRV,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.384527442502
+Croatia,HRV,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.0983346611673
+Croatia,HRV,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.8999901522965
+Croatia,HRV,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,29.8110333589946
+Croatia,HRV,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.3545415119193
+Croatia,HRV,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.9231797129439
+Croatia,HRV,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,93.269618337713
+Croatia,HRV,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,97.7937168434233
+Croatia,HRV,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,99.3418166013083
+Croatia,HRV,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,103.185840121753
+Croatia,HRV,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,105.392530440307
+Croatia,HRV,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,105.082393371571
+Croatia,HRV,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,100.672925231069
+Croatia,HRV,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,105.079677242007
+Croatia,HRV,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,106.376426697688
+Croatia,HRV,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,112.320919250502
+Croatia,HRV,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,115.433393293561
+Croatia,HRV,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,120.287998918178
+Croatia,HRV,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,118.450019837123
+Croatia,HRV,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,121.02595257087
+Croatia,HRV,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,120.497430468646
+Croatia,HRV,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,129.268646844578
+Croatia,HRV,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,129.771766628809
+Croatia,HRV,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,128.128372497979
+Croatia,HRV,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,129.333137734338
+Croatia,HRV,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,132.605620678337
+Croatia,HRV,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3714.38298844207
+Croatia,HRV,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3754.26869773614
+Croatia,HRV,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3819.28025348455
+Croatia,HRV,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3900.60136120405
+Croatia,HRV,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3922.31086688238
+Croatia,HRV,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3818.42250070322
+Croatia,HRV,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3990.29631958568
+Croatia,HRV,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3846.67407696643
+Croatia,HRV,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3744.4687147934
+Croatia,HRV,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3582.24607292794
+Croatia,HRV,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3429.35464386935
+Croatia,HRV,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3257.88986798575
+Croatia,HRV,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3191.40973842527
+Croatia,HRV,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2993.27246314926
+Croatia,HRV,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2828.81506218693
+Croatia,HRV,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2778.88763388355
+Croatia,HRV,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2631.43088191327
+Croatia,HRV,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2609.96886383883
+Croatia,HRV,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2405.03987516614
+Croatia,HRV,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2314.70358417586
+Croatia,HRV,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2203.12706899191
+Croatia,HRV,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2218.25498868266
+Croatia,HRV,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2227.79839582781
+Croatia,HRV,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2608.85958735105
+Croatia,HRV,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2966.2776658612
+Croatia,HRV,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1897.84066540377
+Croatia,HRV,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1983.86794711738
+Croatia,HRV,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2020.7523834474
+Croatia,HRV,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2140.43613287975
+Croatia,HRV,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2185.44698815741
+Croatia,HRV,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2207.10302307847
+Croatia,HRV,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2280.0706776914
+Croatia,HRV,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2338.44769300478
+Croatia,HRV,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2248.38007598421
+Croatia,HRV,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2261.48377838797
+Croatia,HRV,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2230.90321981136
+Croatia,HRV,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2232.49343135508
+Croatia,HRV,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2081.5982803113
+Croatia,HRV,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2024.54692739535
+Croatia,HRV,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1876.80577543774
+Croatia,HRV,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1930.36936380537
+Croatia,HRV,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1945.43741525793
+Croatia,HRV,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1881.92735483757
+Croatia,HRV,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1770.79750551722
+Croatia,HRV,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1692.15892537494
+Croatia,HRV,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1629.12272163686
+Croatia,HRV,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1680.34891270726
+Croatia,HRV,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1634.5650111084
+Croatia,HRV,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1742.37228999992
+Croatia,HRV,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1981.18922385715
+Croatia,HRV,2014,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.09385591637372
+Croatia,HRV,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.07874377052433
+Croatia,HRV,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.08657709622275
+Croatia,HRV,2011,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.16200322230054
+Croatia,HRV,2010,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.1488491842494
+Croatia,HRV,2009,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.22752820518002
+Croatia,HRV,2008,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.29914449110318
+Croatia,HRV,2007,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.36408899619881
+Croatia,HRV,2006,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.33227749897763
+Croatia,HRV,2005,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.31780428328886
+Croatia,HRV,2004,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.3300732905654
+Croatia,HRV,2003,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.39242368571432
+Croatia,HRV,2002,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.39787801725842
+Croatia,HRV,2001,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.34305104512703
+Croatia,HRV,2000,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.30615867738833
+Croatia,HRV,1999,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.29509036814347
+Croatia,HRV,1998,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.28579633514177
+Croatia,HRV,1997,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.21539582793849
+Croatia,HRV,1996,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.10122016988001
+Croatia,HRV,1995,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.17266874098614
+Croatia,HRV,1994,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.17589558022874
+Croatia,HRV,1993,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.16688565107317
+Croatia,HRV,1992,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.19496229145587
+Croatia,HRV,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4624.087
+Croatia,HRV,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5225.475
+Croatia,HRV,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5526.169
+Croatia,HRV,2011,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5885.535
+Croatia,HRV,2010,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6028.548
+Croatia,HRV,2009,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5504.167
+Croatia,HRV,2008,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5900.203
+Croatia,HRV,2007,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6186.229
+Croatia,HRV,2006,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5383.156
+Croatia,HRV,2005,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5427.16
+Croatia,HRV,2004,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5628.845
+Croatia,HRV,2003,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5397.824
+Croatia,HRV,2002,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5427.16
+Croatia,HRV,2001,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5302.482
+Croatia,HRV,2000,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5060.46
+Croatia,HRV,1999,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5016.456
+Croatia,HRV,1998,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4946.783
+Croatia,HRV,1997,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5144.801
+Croatia,HRV,1996,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4965.118
+Croatia,HRV,1995,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4429.736
+Croatia,HRV,1994,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4792.769
+Croatia,HRV,1993,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5093.463
+Croatia,HRV,1992,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4825.772
+Croatia,HRV,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,27.4548225560636
+Croatia,HRV,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.7743418303385
+Croatia,HRV,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,30.7112288567353
+Croatia,HRV,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.7112180673825
+Croatia,HRV,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.8854753681149
+Croatia,HRV,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.004851004851
+Croatia,HRV,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.1158902775523
+Croatia,HRV,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.9618344105879
+Croatia,HRV,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,23.8118410381184
+Croatia,HRV,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.0220743385814
+Croatia,HRV,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.1556866601114
+Croatia,HRV,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,23.4843650287173
+Croatia,HRV,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.2732240437158
+Croatia,HRV,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.9978425026969
+Croatia,HRV,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.1660978384528
+Croatia,HRV,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.0917094644167
+Croatia,HRV,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.5451237263464
+Croatia,HRV,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,27.211016291699
+Croatia,HRV,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.2820069204152
+Croatia,HRV,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.0794473229706
+Croatia,HRV,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.0638203246609
+Croatia,HRV,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,30.407180385289
+Croatia,HRV,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.3946839401385
+Croatia,HRV,2014,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.290847103803422
+Croatia,HRV,2013,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.302753842535179
+Croatia,HRV,2012,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.308705440810227
+Croatia,HRV,2011,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.332241739442953
+Croatia,HRV,2010,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.337282274741336
+Croatia,HRV,2009,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.348602837731126
+Croatia,HRV,2008,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.344712239628109
+Croatia,HRV,2007,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.369964712032934
+Croatia,HRV,2006,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.369490579930679
+Croatia,HRV,2005,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.387717283023372
+Croatia,HRV,2004,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.400570345025389
+Croatia,HRV,2003,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.428586161391271
+Croatia,HRV,2002,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.422999617382774
+Croatia,HRV,2001,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.422316461526996
+Croatia,HRV,2000,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.413851679928149
+Croatia,HRV,1999,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.441845812652133
+Croatia,HRV,1998,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.441769266823653
+Croatia,HRV,1997,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.422741022682089
+Croatia,HRV,1996,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.404724155498284
+Croatia,HRV,1995,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.429074988154093
+Croatia,HRV,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,16842.531
+Croatia,HRV,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,17550.262
+Croatia,HRV,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,17993.969
+Croatia,HRV,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,19809.134
+Croatia,HRV,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,20172.167
+Croatia,HRV,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,21165.924
+Croatia,HRV,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,22592.387
+Croatia,HRV,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,23828.166
+Croatia,HRV,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,22607.055
+Croatia,HRV,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,22592.387
+Croatia,HRV,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,22376.034
+Croatia,HRV,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,22984.756
+Croatia,HRV,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,21473.952
+Croatia,HRV,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,20395.854
+Croatia,HRV,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,19339.758
+Croatia,HRV,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,19992.484
+Croatia,HRV,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,20153.832
+Croatia,HRV,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,18907.052
+Croatia,HRV,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,16956.208
+Croatia,HRV,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,16985.544
+Croatia,HRV,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,16490.499
+Croatia,HRV,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,16750.856
+Croatia,HRV,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,16417.159
+Croatia,HRV,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8591.781
+Croatia,HRV,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8595.448
+Croatia,HRV,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8991.484
+Croatia,HRV,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10010.91
+Croatia,HRV,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10322.605
+Croatia,HRV,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12233.112
+Croatia,HRV,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12357.79
+Croatia,HRV,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13234.203
+Croatia,HRV,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13054.52
+Croatia,HRV,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12797.83
+Croatia,HRV,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12291.784
+Croatia,HRV,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13303.876
+Croatia,HRV,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12145.104
+Croatia,HRV,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11639.058
+Croatia,HRV,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11246.689
+Croatia,HRV,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12838.167
+Croatia,HRV,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13175.531
+Croatia,HRV,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11771.07
+Croatia,HRV,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10520.623
+Croatia,HRV,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11037.67
+Croatia,HRV,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9812.892
+Croatia,HRV,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9446.192
+Croatia,HRV,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9057.49
+Croatia,HRV,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,51.0124101894187
+Croatia,HRV,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,48.9761805265357
+Croatia,HRV,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,49.9694314244956
+Croatia,HRV,2011,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,50.5368382080711
+Croatia,HRV,2010,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,51.1725140883476
+Croatia,HRV,2009,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,57.7962577962578
+Croatia,HRV,2008,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,54.6989125142022
+Croatia,HRV,2007,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,55.5401662049861
+Croatia,HRV,2006,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,57.7453365774534
+Croatia,HRV,2005,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,56.6466482713845
+Croatia,HRV,2004,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,54.9328089151098
+Croatia,HRV,2003,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,57.8813018506701
+Croatia,HRV,2002,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,56.5573770491803
+Croatia,HRV,2001,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,57.0658036677454
+Croatia,HRV,2000,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,58.1532043989382
+Croatia,HRV,1999,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,64.2149669845928
+Croatia,HRV,1998,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,65.3748180494905
+Croatia,HRV,1997,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,62.2575640031032
+Croatia,HRV,1996,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,62.0458477508651
+Croatia,HRV,1995,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,64.9827288428325
+Croatia,HRV,1994,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,59.5063375583722
+Croatia,HRV,1993,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,56.3922942206655
+Croatia,HRV,1992,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,55.1708733526915
+Croatia,HRV,2014,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.97380490559031
+Croatia,HRV,2013,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.12395313661313
+Croatia,HRV,2012,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.21645564043887
+Croatia,HRV,2011,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.62762981641453
+Croatia,HRV,2010,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.69619597772236
+Croatia,HRV,2009,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.91638423564538
+Croatia,HRV,2008,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.24221193794007
+Croatia,HRV,2007,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.52829845921911
+Croatia,HRV,2006,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.24384626036757
+Croatia,HRV,2005,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.2416767881359
+Croatia,HRV,2004,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.19816800631882
+Croatia,HRV,2003,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.34107016337551
+Croatia,HRV,2002,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.9914187571214
+Croatia,HRV,2001,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.7436167941424
+Croatia,HRV,2000,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.32821192479828
+Croatia,HRV,1999,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.43037213382892
+Croatia,HRV,1998,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.44687371404426
+Croatia,HRV,1997,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.16921401039048
+Croatia,HRV,1996,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.72083543536598
+Croatia,HRV,1995,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.67650080194284
+Croatia,HRV,1994,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.54480092965986
+Croatia,HRV,1993,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.64112394774178
+Croatia,HRV,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,3.58780856231607
+Croatia,HRV,2014,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.180119675266575
+Croatia,HRV,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.189439115327048
+Croatia,HRV,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.199487849541251
+Croatia,HRV,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.223088118839019
+Croatia,HRV,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.237643881443561
+Croatia,HRV,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.245835379287794
+Croatia,HRV,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.252315116659224
+Croatia,HRV,2007,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.285626636348962
+Croatia,HRV,2006,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.300829246447386
+Croatia,HRV,2005,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.342506785188168
+Croatia,HRV,2004,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.357644575940801
+Croatia,HRV,2003,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.394169888129337
+Croatia,HRV,2002,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.394652211708655
+Croatia,HRV,2001,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.408457687720492
+Croatia,HRV,2000,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.408258780675318
+Croatia,HRV,1999,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.450066457835994
+Croatia,HRV,1998,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.454452891970014
+Croatia,HRV,1997,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.440543501138956
+Croatia,HRV,1996,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.428416471302054
+Croatia,HRV,1995,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.461802193219391
+Croatia,HRV,2014,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.195293142174339
+Croatia,HRV,2013,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.203288079684686
+Croatia,HRV,2012,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.207284359217451
+Croatia,HRV,2011,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.223088118839019
+Croatia,HRV,2010,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.226472653062634
+Croatia,HRV,2009,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.234073995102996
+Croatia,HRV,2008,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.231461601448256
+Croatia,HRV,2007,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.248417708691951
+Croatia,HRV,2006,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.248099346408661
+Croatia,HRV,2005,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.260337907741755
+Croatia,HRV,2004,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.268968266552658
+Croatia,HRV,2003,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.287779857719027
+Croatia,HRV,2002,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.284028698711261
+Croatia,HRV,2001,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.283569984658672
+Croatia,HRV,2000,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.277886194878266
+Croatia,HRV,1999,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.296683226275929
+Croatia,HRV,1998,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.296631828565006
+Croatia,HRV,1997,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.283855061872572
+Croatia,HRV,1996,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.271757397641261
+Croatia,HRV,1995,CO2 emissions (kg per 2011 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.288108086926889
+Croatia,HRV,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2456.89
+Croatia,HRV,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2563.233
+Croatia,HRV,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2398.218
+Croatia,HRV,2011,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2676.91
+Croatia,HRV,2010,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2581.568
+Croatia,HRV,2009,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1969.179
+Croatia,HRV,2008,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2636.573
+Croatia,HRV,2007,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2618.238
+Croatia,HRV,2006,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2372.549
+Croatia,HRV,2005,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2629.239
+Croatia,HRV,2004,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2555.899
+Croatia,HRV,2003,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2464.224
+Croatia,HRV,2002,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2214.868
+Croatia,HRV,2001,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1837.167
+Croatia,HRV,2000,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1609.813
+Croatia,HRV,1999,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,784.738
+Croatia,HRV,1998,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,887.414
+Croatia,HRV,1997,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,927.751
+Croatia,HRV,1996,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,550.05
+Croatia,HRV,1995,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,667.394
+Croatia,HRV,1994,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,861.745
+Croatia,HRV,1993,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1367.791
+Croatia,HRV,1992,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1653.817
+Croatia,HRV,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,14.5874156324842
+Croatia,HRV,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,14.6050982030924
+Croatia,HRV,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,13.3278989199103
+Croatia,HRV,2011,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,13.5135135135135
+Croatia,HRV,2010,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,12.7976731503363
+Croatia,HRV,2009,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,9.3035343035343
+Croatia,HRV,2008,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,11.6701834117838
+Croatia,HRV,2007,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,10.9879963065559
+Croatia,HRV,2006,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,10.4947283049473
+Croatia,HRV,2005,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,11.6377211491641
+Croatia,HRV,2004,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,11.422484431334
+Croatia,HRV,2003,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,10.721123165284
+Croatia,HRV,2002,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,10.3142076502732
+Croatia,HRV,2001,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,9.00755124056095
+Croatia,HRV,2000,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,8.32385286310201
+Croatia,HRV,1999,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.92516507703595
+Croatia,HRV,1998,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,4.40320232896652
+Croatia,HRV,1997,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,4.90690457719162
+Croatia,HRV,1996,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.2439446366782
+Croatia,HRV,1995,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.92918825561313
+Croatia,HRV,1994,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,5.22570602623972
+Croatia,HRV,1993,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,8.16549912434326
+Croatia,HRV,1992,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,10.0737100737101
+Croatia,HRV,2012,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,3467.1911132812
+Croatia,HRV,2011,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,2154.76826171865
+Croatia,HRV,2010,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,2328.7948730469
+Croatia,HRV,2009,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,2090.5461578125
+Croatia,HRV,2008,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1882.6207453125
+Croatia,HRV,2007,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,908.1445914062
+Croatia,HRV,2006,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-182.4198164063
+Croatia,HRV,2005,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-217.194227499999
+Croatia,HRV,2004,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-237.342244140599
+Croatia,HRV,2003,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,320.271841796899
+Croatia,HRV,2002,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,150.933952343699
+Croatia,HRV,2001,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,13.9119902344023
+Croatia,HRV,2000,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,242.293082031197
+Croatia,HRV,1999,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,48.6969726561993
+Croatia,HRV,1998,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,391.957272460902
+Croatia,HRV,1997,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,148.235543671899
+Croatia,HRV,1996,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,177.376601640599
+Croatia,HRV,1995,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,192.0905795312
+Croatia,HRV,1994,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,201.331637265599
+Croatia,HRV,1993,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,189.055381757802
+Croatia,HRV,1992,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,254.0413235156
+Croatia,HRV,1991,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,446.9820896875
+Croatia,HRV,1990,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,683.771273281201
+Croatia,HRV,1989,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,6285.4602783203
+Croatia,HRV,1988,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,5891.9300292969
+Croatia,HRV,1987,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,14172.7810058594
+Croatia,HRV,1986,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,12603.0245849609
+Croatia,HRV,1985,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,11348.5987304687
+Croatia,HRV,1984,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,10875.4724121094
+Croatia,HRV,1983,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,8408.3850585937
+Croatia,HRV,1982,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,6620.022265625
+Croatia,HRV,1981,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,9460.3347900391
+Croatia,HRV,1980,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-5010.2537597656
+Croatia,HRV,1979,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-4052.7686035156
+Croatia,HRV,1978,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-3962.1709472656
+Croatia,HRV,1977,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2796.6060058594
+Croatia,HRV,1976,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1022.6690429688
+Croatia,HRV,1975,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-579.240234374998
+Croatia,HRV,1974,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2524.4432861328
+Croatia,HRV,1973,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1428.4479980469
+Croatia,HRV,1972,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1226.6088134766
+Croatia,HRV,1971,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1856.8329467773
+Croatia,HRV,1970,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2118.0631225586
+Croatia,HRV,2012,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-89.9944556062847
+Croatia,HRV,2011,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-89.9944556062904
+Croatia,HRV,2010,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-89.9944556062847
+Croatia,HRV,2009,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-84.6085595740422
+Croatia,HRV,2008,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-84.9746751043995
+Croatia,HRV,2007,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-80.9946869102694
+Croatia,HRV,2006,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-88.000965731111
+Croatia,HRV,2005,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-93.0555908494689
+Croatia,HRV,2004,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-90.9781473980498
+Croatia,HRV,2003,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-68.1392318224806
+Croatia,HRV,2002,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-91.6341884230677
+Croatia,HRV,2001,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-77.3169938871835
+Croatia,HRV,2000,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-48.8760378707506
+Croatia,HRV,1999,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-90.0504776913559
+Croatia,HRV,1998,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-46.9215393667863
+Croatia,HRV,1997,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-70.5376739782661
+Croatia,HRV,1996,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-63.614028853346
+Croatia,HRV,1995,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-66.4516718312307
+Croatia,HRV,1994,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-68.5543061734232
+Croatia,HRV,1993,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-67.74222235309
+Croatia,HRV,1992,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-63.0718975339035
+Croatia,HRV,1991,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-28.9054071127163
+Croatia,HRV,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30421.0493635559
+Croatia,HRV,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30453.5113317779
+Croatia,HRV,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31172.6453
+Croatia,HRV,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,31461.0364
+Croatia,HRV,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,32938.0609
+Croatia,HRV,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,33301.0976
+Croatia,HRV,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30290.0744
+Croatia,HRV,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29863.54461
+Croatia,HRV,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29691.5132
+Croatia,HRV,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30011.8762
+Croatia,HRV,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28301.7261
+Croatia,HRV,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27165.0499
+Croatia,HRV,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27312.045
+Croatia,HRV,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27203.214
+Croatia,HRV,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27432.058
+Croatia,HRV,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26444.91278
+Croatia,HRV,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24101.40167
+Croatia,HRV,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24621.25356
+Croatia,HRV,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24087.79944
+Croatia,HRV,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24880.32833
+Croatia,HRV,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,24794.92522
+Croatia,HRV,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26347.55991
+Croatia,HRV,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,34734.33116
+Croatia,HRV,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,43802.366
+Croatia,HRV,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,43184.992
+Croatia,HRV,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49218.687
+Croatia,HRV,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49135.047
+Croatia,HRV,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46094.194
+Croatia,HRV,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,44415.791
+Croatia,HRV,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,42472.093
+Croatia,HRV,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,39432.775
+Croatia,HRV,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,40950.583
+Croatia,HRV,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,27177.913
+Croatia,HRV,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30839.504
+Croatia,HRV,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28611.522
+Croatia,HRV,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28843.891
+Croatia,HRV,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,29984.501
+Croatia,HRV,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,30711.776
+Croatia,HRV,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28323.112
+Croatia,HRV,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,28255.897
+Croatia,HRV,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,26950.167
+Croatia,HRV,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25722.964
+Croatia,HRV,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,25740.655
+Croatia,HRV,2012,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-12.4179209801836
+Croatia,HRV,2011,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-12.3244631039618
+Croatia,HRV,2010,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-10.254079295765
+Croatia,HRV,2009,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-9.4238024763509
+Croatia,HRV,2008,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-5.1714548690334
+Croatia,HRV,2007,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-4.12627366681674
+Croatia,HRV,2006,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-12.7949973745802
+Croatia,HRV,2005,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-14.0229749280711
+Croatia,HRV,2004,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-14.5182526669962
+Croatia,HRV,2003,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-13.5959288758045
+Croatia,HRV,2002,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-18.5194441498496
+Croatia,HRV,2001,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-21.7919303674883
+Croatia,HRV,2000,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-21.3687320645676
+Croatia,HRV,1999,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-21.6820560767637
+Croatia,HRV,1998,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-21.0232151192515
+Croatia,HRV,1997,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-23.8652022456275
+Croatia,HRV,1996,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-30.6121613254061
+Croatia,HRV,1995,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-29.1155098205726
+Croatia,HRV,1994,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-30.6513220909822
+Croatia,HRV,1993,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-28.3696345975645
+Croatia,HRV,1992,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-28.6155098084808
+Croatia,HRV,1991,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-24.1454807676222
+Croatia,HRV,2010,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,78
+Croatia,HRV,2008,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,66.3
+Croatia,HRV,2005,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,47.5
+Croatia,HRV,2000,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,16.3
+Croatia,HRV,1990,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+Croatia,HRV,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4708.39220473504
+Croatia,HRV,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4819.36510236752
+Croatia,HRV,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5035.01
+Croatia,HRV,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4930.34
+Croatia,HRV,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4861.73
+Croatia,HRV,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4871.85
+Croatia,HRV,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4741.54
+Croatia,HRV,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4516.48
+Croatia,HRV,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4495.01
+Croatia,HRV,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4394.83
+Croatia,HRV,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4182.29
+Croatia,HRV,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4076.02
+Croatia,HRV,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3953.48
+Croatia,HRV,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3801.56
+Croatia,HRV,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3799.62
+Croatia,HRV,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3854.8
+Croatia,HRV,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3839.25
+Croatia,HRV,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3905.02
+Croatia,HRV,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3894.95
+Croatia,HRV,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4111.51
+Croatia,HRV,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4049.03
+Croatia,HRV,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4150.11
+Croatia,HRV,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4165.94
+Croatia,HRV,1989,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4101.02
+Croatia,HRV,1988,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3996.3
+Croatia,HRV,1987,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3756.72
+Croatia,HRV,1986,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3671.69
+Croatia,HRV,1985,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3694.81
+Croatia,HRV,1984,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3583.12
+Croatia,HRV,1983,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3549.6
+Croatia,HRV,1982,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3567.41
+Croatia,HRV,1981,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3557.65
+Croatia,HRV,1980,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3523.76
+Croatia,HRV,1979,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3569.69
+Croatia,HRV,1978,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3591.6
+Croatia,HRV,1977,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3578.21
+Croatia,HRV,1976,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3525.69
+Croatia,HRV,1975,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3487.69
+Croatia,HRV,1974,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3347.41
+Croatia,HRV,1973,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3175.84
+Croatia,HRV,1972,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3074.1
+Croatia,HRV,1971,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,3015.48
+Croatia,HRV,1970,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,2985.57
+Croatia,HRV,2012,Methane emissions (% change from 1990),EN.ATM.METH.ZG,13.0211237976313
+Croatia,HRV,2011,Methane emissions (% change from 1990),EN.ATM.METH.ZG,15.684937909992
+Croatia,HRV,2010,Methane emissions (% change from 1990),EN.ATM.METH.ZG,20.8613182138965
+Croatia,HRV,2009,Methane emissions (% change from 1990),EN.ATM.METH.ZG,18.3488000307254
+Croatia,HRV,2008,Methane emissions (% change from 1990),EN.ATM.METH.ZG,16.7018728066175
+Croatia,HRV,2007,Methane emissions (% change from 1990),EN.ATM.METH.ZG,16.9447951722781
+Croatia,HRV,2006,Methane emissions (% change from 1990),EN.ATM.METH.ZG,13.8168096516033
+Croatia,HRV,2005,Methane emissions (% change from 1990),EN.ATM.METH.ZG,8.41442747615184
+Croatia,HRV,2004,Methane emissions (% change from 1990),EN.ATM.METH.ZG,7.89905759564469
+Croatia,HRV,2003,Methane emissions (% change from 1990),EN.ATM.METH.ZG,5.49431820909567
+Croatia,HRV,2002,Methane emissions (% change from 1990),EN.ATM.METH.ZG,0.392468446497074
+Croatia,HRV,2001,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-2.15845643480223
+Croatia,HRV,2000,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-5.09992942769219
+Croatia,HRV,1999,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-8.74664541496036
+Croatia,HRV,1998,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-8.79321353644075
+Croatia,HRV,1997,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-7.46866253474605
+Croatia,HRV,1996,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-7.84192763217905
+Croatia,HRV,1995,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-6.26317229724863
+Croatia,HRV,1994,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-6.5048944535927
+Croatia,HRV,1993,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-1.3065478619471
+Croatia,HRV,1992,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-2.80632942385151
+Croatia,HRV,1991,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-0.379986269605415
+Croatia,HRV,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2854.35715882086
+Croatia,HRV,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2898.84622941043
+Croatia,HRV,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2943.3353
+Croatia,HRV,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2660.327
+Croatia,HRV,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2813.1291
+Croatia,HRV,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2820.3242
+Croatia,HRV,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2741.3424
+Croatia,HRV,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2758.4854
+Croatia,HRV,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2769.2827
+Croatia,HRV,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2701.6872
+Croatia,HRV,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2739.3708
+Croatia,HRV,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2644.4829
+Croatia,HRV,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3783.581
+Croatia,HRV,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3513.354
+Croatia,HRV,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3605.61
+Croatia,HRV,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3972.96
+Croatia,HRV,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3396.205
+Croatia,HRV,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3742.413
+Croatia,HRV,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3752.395
+Croatia,HRV,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3656.016
+Croatia,HRV,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4039.61
+Croatia,HRV,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3863.127
+Croatia,HRV,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4733.886
+Croatia,HRV,1989,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4694.671
+Croatia,HRV,1988,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,5040.042
+Croatia,HRV,1987,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,5374.842
+Croatia,HRV,1986,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,5463.657
+Croatia,HRV,1985,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,5640.109
+Croatia,HRV,1984,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,5523.921
+Croatia,HRV,1983,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4815.168
+Croatia,HRV,1982,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4672.165
+Croatia,HRV,1981,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4532.758
+Croatia,HRV,1980,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4290.803
+Croatia,HRV,1979,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4194.889
+Croatia,HRV,1978,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4162.122
+Croatia,HRV,1977,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4176.506
+Croatia,HRV,1976,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,4030.961
+Croatia,HRV,1975,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3968.961
+Croatia,HRV,1974,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3987.902
+Croatia,HRV,1973,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3813.682
+Croatia,HRV,1972,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3667.517
+Croatia,HRV,1971,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3617.359
+Croatia,HRV,1970,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,3513.385
+Croatia,HRV,2012,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-39.7037199708472
+Croatia,HRV,2011,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-38.7639197604161
+Croatia,HRV,2010,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-37.8241195499849
+Croatia,HRV,2009,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-43.8024701059552
+Croatia,HRV,2008,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-40.5746336096814
+Croatia,HRV,2007,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-40.4226422013542
+Croatia,HRV,2006,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-42.0910769714353
+Croatia,HRV,2005,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-41.7289431980407
+Croatia,HRV,2004,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-41.5008578575825
+Croatia,HRV,2003,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-42.928765077993
+Croatia,HRV,2002,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-42.1327256296413
+Croatia,HRV,2001,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-44.1371655337708
+Croatia,HRV,2000,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-20.0745222846516
+Croatia,HRV,1999,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-25.7828769007112
+Croatia,HRV,1998,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-23.8340340261679
+Croatia,HRV,1997,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-16.0740245962831
+Croatia,HRV,1996,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-28.2575668277605
+Croatia,HRV,1995,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-20.9441672232918
+Croatia,HRV,1994,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-20.7333045197962
+Croatia,HRV,1993,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.7692428588268
+Croatia,HRV,1992,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-14.6660903959242
+Croatia,HRV,1991,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-18.3941691878512
+Croatia,HRV,2010,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,11
+Croatia,HRV,2008,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,11
+Croatia,HRV,2005,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,10.9
+Croatia,HRV,2000,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,63
+Croatia,HRV,1990,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,890.4
+Croatia,HRV,2010,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Croatia,HRV,2008,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Croatia,HRV,2005,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Croatia,HRV,2000,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Croatia,HRV,1990,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+Croatia,HRV,2009,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-8.71205832991601
+Croatia,HRV,2008,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-8.64311052493293
+Croatia,HRV,2007,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-8.50575069749461
+Croatia,HRV,2006,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-8.21543550215909
+Croatia,HRV,2005,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-8.10000907299354
+Croatia,HRV,2004,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-7.93452955623607
+Croatia,HRV,2003,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-7.74991547747344
+Croatia,HRV,2002,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-7.55679098903396
+Croatia,HRV,2001,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-7.38812246978948
+Croatia,HRV,2000,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-7.21789478448171
+Croatia,HRV,1999,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-7.0287754603756
+Croatia,HRV,1998,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.86018455659345
+Croatia,HRV,1997,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.68434373344876
+Croatia,HRV,1996,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.47180568622332
+Croatia,HRV,1995,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.86276693529644
+Croatia,HRV,1994,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.87190347050204
+Croatia,HRV,1993,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.83458103080743
+Croatia,HRV,1992,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.83151123881095
+Croatia,HRV,1991,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.83374115576083
+Croatia,HRV,1990,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-6.93357778267283
+Croatia,HRV,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.00249428868861808
+Croatia,HRV,2010,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.894558464
+Croatia,HRV,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.902491368
+Croatia,HRV,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.888996401
+Croatia,HRV,2010,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.954733976
+Croatia,HRV,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.947984463
+Croatia,HRV,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.958958717
+Croatia,HRV,2010,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.84929244
+Croatia,HRV,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.850475831
+Croatia,HRV,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.847955118
+Croatia,HRV,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6338
+Croatia,HRV,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6693
+Croatia,HRV,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.68116710875332
+Croatia,HRV,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.77533156498674
+Croatia,HRV,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,38.2536302140039
+Croatia,HRV,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,38.2536302140039
+Croatia,HRV,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,38.11
+Croatia,HRV,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,8.54108490852191
+Croatia,HRV,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,8.54108490852191
+Croatia,HRV,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,8.540921417
+Croatia,HRV,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,23.5817265852557
+Croatia,HRV,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,23.5817265852557
+Croatia,HRV,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,23.5064099082696
+Croatia,HRV,2019,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,51
+Croatia,HRV,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.8509724525541
+Croatia,HRV,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.93578978135018
+Croatia,HRV,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.11041388369749
+Croatia,HRV,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.01089709301932
+Croatia,HRV,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.98808364026621
+Croatia,HRV,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.5031344247486
+Croatia,HRV,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.34008654519357
+Croatia,HRV,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.68032872489457
+Croatia,HRV,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.69769013351207
+Croatia,HRV,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.04307151659094
+Croatia,HRV,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.98009778066951
+Croatia,HRV,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.72664823164434
+Croatia,HRV,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.01997386945664
+Croatia,HRV,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.90363642895262
+Croatia,HRV,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.46016067367562
+Croatia,HRV,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,3.97302699836998
+Croatia,HRV,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.89081901960961
+Croatia,HRV,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.98080466790757
+Croatia,HRV,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.00059095460354
+Croatia,HRV,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.45688786976346
+Croatia,HRV,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.37399455121579
+Croatia,HRV,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.28069221603989
+Croatia,HRV,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.66240112257696
+Croatia,HRV,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.70700282787486
+Croatia,HRV,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03202
+Croatia,HRV,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03194
+Croatia,HRV,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02325
+Croatia,HRV,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02404
+Croatia,HRV,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02675
+Croatia,HRV,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02679
+Croatia,HRV,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0494
+Croatia,HRV,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0267
+Croatia,HRV,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02589
+Croatia,HRV,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02423
+Croatia,HRV,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02247
+Croatia,HRV,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02232
+Croatia,HRV,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00876
+Croatia,HRV,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00939
+Croatia,HRV,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00923
+Croatia,HRV,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01085
+Croatia,HRV,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01032996177673
+Croatia,HRV,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01121997833252
+Croatia,HRV,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01561999320984
+Croatia,HRV,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02241003513336
+Croatia,HRV,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02453994750977
+Croatia,HRV,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02493000030518
+Croatia,HRV,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03076004981995
+Croatia,HRV,2016,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,101.02
+Croatia,HRV,2015,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,103.484
+Croatia,HRV,2014,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,97.93856
+Croatia,HRV,2013,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.96452
+Croatia,HRV,2012,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,92.74301
+Croatia,HRV,2011,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.08901
+Croatia,HRV,2010,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,91.27276
+Croatia,HRV,2009,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.59109
+Croatia,HRV,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.67824
+Croatia,HRV,2007,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,103.87421
+Croatia,HRV,2006,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,101.7197
+Croatia,HRV,2005,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,103.44709
+Croatia,HRV,2003,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,97.35978
+Croatia,HRV,2002,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.19368
+Croatia,HRV,2001,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.01475
+Croatia,HRV,2000,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,90.88206
+Croatia,HRV,1999,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,89.4849624633789
+Croatia,HRV,1998,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,90.8996887207031
+Croatia,HRV,1997,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,85.9062423706055
+Croatia,HRV,1996,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,84.7379302978516
+Croatia,HRV,1995,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,80.2588500976563
+Croatia,HRV,1994,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,83.5966491699219
+Croatia,HRV,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.7
+Croatia,HRV,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.7
+Croatia,HRV,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.8
+Croatia,HRV,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.9
+Croatia,HRV,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5
+Croatia,HRV,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.1
+Croatia,HRV,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.2
+Croatia,HRV,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.3
+Croatia,HRV,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.5
+Croatia,HRV,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.7
+Croatia,HRV,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.9
+Croatia,HRV,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.2
+Croatia,HRV,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.4
+Croatia,HRV,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.7
+Croatia,HRV,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7
+Croatia,HRV,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.4
+Croatia,HRV,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.7
+Croatia,HRV,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8
+Croatia,HRV,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.3
+Croatia,HRV,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.6
+Croatia,HRV,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.9
+Croatia,HRV,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.3
+Croatia,HRV,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.6
+Croatia,HRV,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10
+Croatia,HRV,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.4
+Croatia,HRV,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.9
+Croatia,HRV,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.4
+Croatia,HRV,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.1
+Croatia,HRV,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.8
+Croatia,HRV,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.7
+Croatia,HRV,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.7
+Croatia,HRV,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.8
+Croatia,HRV,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17
+Croatia,HRV,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.2
+Croatia,HRV,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,19.5
+Croatia,HRV,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.8
+Croatia,HRV,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.1
+Croatia,HRV,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,23.6
+Croatia,HRV,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+Croatia,HRV,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+Croatia,HRV,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+Croatia,HRV,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+Croatia,HRV,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+Croatia,HRV,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.2
+Croatia,HRV,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+Croatia,HRV,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Croatia,HRV,2018,Population growth (annual %),SP.POP.GROW,-0.855405632614006
+Croatia,HRV,2017,Population growth (annual %),SP.POP.GROW,-1.20061016480925
+Croatia,HRV,2016,Population growth (annual %),SP.POP.GROW,-0.69838345731273
+Croatia,HRV,2015,Population growth (annual %),SP.POP.GROW,-0.824099163913538
+Croatia,HRV,2014,Population growth (annual %),SP.POP.GROW,-0.407343184777633
+Croatia,HRV,2013,Population growth (annual %),SP.POP.GROW,-0.278509062850129
+Croatia,HRV,2012,Population growth (annual %),SP.POP.GROW,-0.305655944795909
+Croatia,HRV,2011,Population growth (annual %),SP.POP.GROW,-0.345264228485821
+Croatia,HRV,2010,Population growth (annual %),SP.POP.GROW,-0.226821270818422
+Croatia,HRV,2009,Population growth (annual %),SP.POP.GROW,-0.10502751669287
+Croatia,HRV,2008,Population growth (annual %),SP.POP.GROW,-0.0118794578559279
+Croatia,HRV,2007,Population growth (annual %),SP.POP.GROW,-0.0218526602655707
+Croatia,HRV,2006,Population growth (annual %),SP.POP.GROW,0.0235231237565747
+Croatia,HRV,2005,Population growth (annual %),SP.POP.GROW,0.128732789322745
+Croatia,HRV,2004,Population growth (annual %),SP.POP.GROW,0.0279042785156658
+Croatia,HRV,2003,Population growth (annual %),SP.POP.GROW,0.0284699231131846
+Croatia,HRV,2002,Population growth (annual %),SP.POP.GROW,0.0588712912047699
+Croatia,HRV,2001,Population growth (annual %),SP.POP.GROW,-3.8476707266781
+Croatia,HRV,2000,Population growth (annual %),SP.POP.GROW,-0.986434858645568
+Croatia,HRV,1999,Population growth (annual %),SP.POP.GROW,-0.432031162225091
+Croatia,HRV,1998,Population growth (annual %),SP.POP.GROW,-0.061431194309139
+Croatia,HRV,1997,Population growth (annual %),SP.POP.GROW,-0.487835515074698
+Croatia,HRV,1996,Population growth (annual %),SP.POP.GROW,-1.37154005901268
+Croatia,HRV,1995,Population growth (annual %),SP.POP.GROW,-0.690119513541903
+Croatia,HRV,1994,Population growth (annual %),SP.POP.GROW,1.11454431106051
+Croatia,HRV,1993,Population growth (annual %),SP.POP.GROW,0.537147004460399
+Croatia,HRV,1992,Population growth (annual %),SP.POP.GROW,-2.44385513691215
+Croatia,HRV,1991,Population growth (annual %),SP.POP.GROW,-1.86657353088556
+Croatia,HRV,1990,Population growth (annual %),SP.POP.GROW,0.211805086145315
+Croatia,HRV,1989,Population growth (annual %),SP.POP.GROW,0.253148820294905
+Croatia,HRV,1988,Population growth (annual %),SP.POP.GROW,0.325689138134816
+Croatia,HRV,1987,Population growth (annual %),SP.POP.GROW,0.386822817922415
+Croatia,HRV,1986,Population growth (annual %),SP.POP.GROW,0.425115597334071
+Croatia,HRV,1985,Population growth (annual %),SP.POP.GROW,0.450494712765103
+Croatia,HRV,1984,Population growth (annual %),SP.POP.GROW,0.471830569469422
+Croatia,HRV,1983,Population growth (annual %),SP.POP.GROW,0.516977874983413
+Croatia,HRV,1982,Population growth (annual %),SP.POP.GROW,0.491578573238622
+Croatia,HRV,1981,Population growth (annual %),SP.POP.GROW,0.254622426666637
+Croatia,HRV,1980,Population growth (annual %),SP.POP.GROW,0.108846981129012
+Croatia,HRV,1979,Population growth (annual %),SP.POP.GROW,0.298457162326635
+Croatia,HRV,1978,Population growth (annual %),SP.POP.GROW,0.470732947991721
+Croatia,HRV,1977,Population growth (annual %),SP.POP.GROW,0.519752409818
+Croatia,HRV,1976,Population growth (annual %),SP.POP.GROW,0.527232826556227
+Croatia,HRV,1975,Population growth (annual %),SP.POP.GROW,0.475900351929317
+Croatia,HRV,1974,Population growth (annual %),SP.POP.GROW,0.457525839624875
+Croatia,HRV,1973,Population growth (annual %),SP.POP.GROW,0.439359615379226
+Croatia,HRV,1972,Population growth (annual %),SP.POP.GROW,0.434347668881993
+Croatia,HRV,1971,Population growth (annual %),SP.POP.GROW,0.430213631742067
+Croatia,HRV,1970,Population growth (annual %),SP.POP.GROW,0.471663946773186
+Croatia,HRV,1969,Population growth (annual %),SP.POP.GROW,0.590652659639334
+Croatia,HRV,1968,Population growth (annual %),SP.POP.GROW,0.619120481082276
+Croatia,HRV,1967,Population growth (annual %),SP.POP.GROW,0.647030993696805
+Croatia,HRV,1966,Population growth (annual %),SP.POP.GROW,0.693189535270421
+Croatia,HRV,1965,Population growth (annual %),SP.POP.GROW,0.657318059279203
+Croatia,HRV,1964,Population growth (annual %),SP.POP.GROW,0.641644859454767
+Croatia,HRV,1963,Population growth (annual %),SP.POP.GROW,0.687764980815768
+Croatia,HRV,1962,Population growth (annual %),SP.POP.GROW,0.703493717452063
+Croatia,HRV,1961,Population growth (annual %),SP.POP.GROW,0.652691769096606
+Croatia,HRV,1960,Population growth (annual %),SP.POP.GROW,0.627517137990157
+Croatia,HRV,2018,"Population, total",SP.POP.TOTL,4089400
+Croatia,HRV,2017,"Population, total",SP.POP.TOTL,4124531
+Croatia,HRV,2016,"Population, total",SP.POP.TOTL,4174349
+Croatia,HRV,2015,"Population, total",SP.POP.TOTL,4203604
+Croatia,HRV,2014,"Population, total",SP.POP.TOTL,4238389
+Croatia,HRV,2013,"Population, total",SP.POP.TOTL,4255689
+Croatia,HRV,2012,"Population, total",SP.POP.TOTL,4267558
+Croatia,HRV,2011,"Population, total",SP.POP.TOTL,4280622
+Croatia,HRV,2010,"Population, total",SP.POP.TOTL,4295427
+Croatia,HRV,2009,"Population, total",SP.POP.TOTL,4305181
+Croatia,HRV,2008,"Population, total",SP.POP.TOTL,4309705
+Croatia,HRV,2007,"Population, total",SP.POP.TOTL,4310217
+Croatia,HRV,2006,"Population, total",SP.POP.TOTL,4311159
+Croatia,HRV,2005,"Population, total",SP.POP.TOTL,4310145
+Croatia,HRV,2004,"Population, total",SP.POP.TOTL,4304600
+Croatia,HRV,2003,"Population, total",SP.POP.TOTL,4303399
+Croatia,HRV,2002,"Population, total",SP.POP.TOTL,4302174
+Croatia,HRV,2001,"Population, total",SP.POP.TOTL,4299642
+Croatia,HRV,2000,"Population, total",SP.POP.TOTL,4468302
+Croatia,HRV,1999,"Population, total",SP.POP.TOTL,4512597
+Croatia,HRV,1998,"Population, total",SP.POP.TOTL,4532135
+Croatia,HRV,1997,"Population, total",SP.POP.TOTL,4534920
+Croatia,HRV,1996,"Population, total",SP.POP.TOTL,4557097
+Croatia,HRV,1995,"Population, total",SP.POP.TOTL,4620030
+Croatia,HRV,1994,"Population, total",SP.POP.TOTL,4652024
+Croatia,HRV,1993,"Population, total",SP.POP.TOTL,4600463
+Croatia,HRV,1992,"Population, total",SP.POP.TOTL,4575818
+Croatia,HRV,1991,"Population, total",SP.POP.TOTL,4689022
+Croatia,HRV,1990,"Population, total",SP.POP.TOTL,4777368
+Croatia,HRV,1989,"Population, total",SP.POP.TOTL,4767260
+Croatia,HRV,1988,"Population, total",SP.POP.TOTL,4755207
+Croatia,HRV,1987,"Population, total",SP.POP.TOTL,4739745
+Croatia,HRV,1986,"Population, total",SP.POP.TOTL,4721446
+Croatia,HRV,1985,"Population, total",SP.POP.TOTL,4701417
+Croatia,HRV,1984,"Population, total",SP.POP.TOTL,4680285
+Croatia,HRV,1983,"Population, total",SP.POP.TOTL,4658254
+Croatia,HRV,1982,"Population, total",SP.POP.TOTL,4634234
+Croatia,HRV,1981,"Population, total",SP.POP.TOTL,4611509
+Croatia,HRV,1980,"Population, total",SP.POP.TOTL,4599782
+Croatia,HRV,1979,"Population, total",SP.POP.TOTL,4594778
+Croatia,HRV,1978,"Population, total",SP.POP.TOTL,4581085
+Croatia,HRV,1977,"Population, total",SP.POP.TOTL,4559571
+Croatia,HRV,1976,"Population, total",SP.POP.TOTL,4535934
+Croatia,HRV,1975,"Population, total",SP.POP.TOTL,4512082
+Croatia,HRV,1974,"Population, total",SP.POP.TOTL,4490660
+Croatia,HRV,1973,"Population, total",SP.POP.TOTL,4470161
+Croatia,HRV,1972,"Population, total",SP.POP.TOTL,4450564
+Croatia,HRV,1971,"Population, total",SP.POP.TOTL,4431275
+Croatia,HRV,1970,"Population, total",SP.POP.TOTL,4412252
+Croatia,HRV,1969,"Population, total",SP.POP.TOTL,4391490
+Croatia,HRV,1968,"Population, total",SP.POP.TOTL,4365628
+Croatia,HRV,1967,"Population, total",SP.POP.TOTL,4338683
+Croatia,HRV,1966,"Population, total",SP.POP.TOTL,4310701
+Croatia,HRV,1965,"Population, total",SP.POP.TOTL,4280923
+Croatia,HRV,1964,"Population, total",SP.POP.TOTL,4252876
+Croatia,HRV,1963,"Population, total",SP.POP.TOTL,4225675
+Croatia,HRV,1962,"Population, total",SP.POP.TOTL,4196712
+Croatia,HRV,1961,"Population, total",SP.POP.TOTL,4167292
+Croatia,HRV,1960,"Population, total",SP.POP.TOTL,4140181
+Croatia,HRV,2018,Urban population growth (annual %),SP.URB.GROW,-0.362492009194312
+Croatia,HRV,2017,Urban population growth (annual %),SP.URB.GROW,-0.733638347773647
+Croatia,HRV,2016,Urban population growth (annual %),SP.URB.GROW,-0.257731226832978
+Croatia,HRV,2015,Urban population growth (annual %),SP.URB.GROW,-0.410081982186149
+Croatia,HRV,2014,Urban population growth (annual %),SP.URB.GROW,-0.0185618451682002
+Croatia,HRV,2013,Urban population growth (annual %),SP.URB.GROW,0.0811490889940271
+Croatia,HRV,2012,Urban population growth (annual %),SP.URB.GROW,0.0263886946453169
+Croatia,HRV,2011,Urban population growth (annual %),SP.URB.GROW,-0.042936131160119
+Croatia,HRV,2010,Urban population growth (annual %),SP.URB.GROW,0.0782445394894119
+Croatia,HRV,2009,Urban population growth (annual %),SP.URB.GROW,0.200979934356861
+Croatia,HRV,2008,Urban population growth (annual %),SP.URB.GROW,0.295033356489087
+Croatia,HRV,2007,Urban population growth (annual %),SP.URB.GROW,0.286028713681515
+Croatia,HRV,2006,Urban population growth (annual %),SP.URB.GROW,0.332373847105583
+Croatia,HRV,2005,Urban population growth (annual %),SP.URB.GROW,0.438497774560809
+Croatia,HRV,2004,Urban population growth (annual %),SP.URB.GROW,0.338652385305638
+Croatia,HRV,2003,Urban population growth (annual %),SP.URB.GROW,0.342049332916028
+Croatia,HRV,2002,Urban population growth (annual %),SP.URB.GROW,0.371575014866115
+Croatia,HRV,2001,Urban population growth (annual %),SP.URB.GROW,-3.44791359884732
+Croatia,HRV,2000,Urban population growth (annual %),SP.URB.GROW,-0.555021490838623
+Croatia,HRV,1999,Urban population growth (annual %),SP.URB.GROW,0.00124968966040968
+Croatia,HRV,1998,Urban population growth (annual %),SP.URB.GROW,0.371850656716763
+Croatia,HRV,1997,Urban population growth (annual %),SP.URB.GROW,-0.050788402191343
+Croatia,HRV,1996,Urban population growth (annual %),SP.URB.GROW,-0.932540428144286
+Croatia,HRV,1995,Urban population growth (annual %),SP.URB.GROW,-0.247281785192553
+Croatia,HRV,1994,Urban population growth (annual %),SP.URB.GROW,1.55740124352457
+Croatia,HRV,1993,Urban population growth (annual %),SP.URB.GROW,0.981999236529849
+Croatia,HRV,1992,Urban population growth (annual %),SP.URB.GROW,-1.99506943722227
+Croatia,HRV,1991,Urban population growth (annual %),SP.URB.GROW,-1.24152350124299
+Croatia,HRV,1990,Urban population growth (annual %),SP.URB.GROW,0.89993492470776
+Croatia,HRV,1989,Urban population growth (annual %),SP.URB.GROW,0.944070668407972
+Croatia,HRV,1988,Urban population growth (annual %),SP.URB.GROW,1.02542778189189
+Croatia,HRV,1987,Urban population growth (annual %),SP.URB.GROW,1.08946002503471
+Croatia,HRV,1986,Urban population growth (annual %),SP.URB.GROW,1.13274315562259
+Croatia,HRV,1985,Urban population growth (annual %),SP.URB.GROW,1.1631404655955
+Croatia,HRV,1984,Urban population growth (annual %),SP.URB.GROW,1.18959691030475
+Croatia,HRV,1983,Urban population growth (annual %),SP.URB.GROW,1.23996830910373
+Croatia,HRV,1982,Urban population growth (annual %),SP.URB.GROW,1.21980175407078
+Croatia,HRV,1981,Urban population growth (annual %),SP.URB.GROW,1.51969926883437
+Croatia,HRV,1980,Urban population growth (annual %),SP.URB.GROW,1.5745328338065
+Croatia,HRV,1979,Urban population growth (annual %),SP.URB.GROW,1.78160999583357
+Croatia,HRV,1978,Urban population growth (annual %),SP.URB.GROW,1.97179322633587
+Croatia,HRV,1977,Urban population growth (annual %),SP.URB.GROW,2.03916792915922
+Croatia,HRV,1976,Urban population growth (annual %),SP.URB.GROW,2.06782255628586
+Croatia,HRV,1975,Urban population growth (annual %),SP.URB.GROW,2.03369710651378
+Croatia,HRV,1974,Urban population growth (annual %),SP.URB.GROW,2.0328615688595
+Croatia,HRV,1973,Urban population growth (annual %),SP.URB.GROW,2.03277215885339
+Croatia,HRV,1972,Urban population growth (annual %),SP.URB.GROW,2.05110466514469
+Croatia,HRV,1971,Urban population growth (annual %),SP.URB.GROW,2.81956386862444
+Croatia,HRV,1970,Urban population growth (annual %),SP.URB.GROW,3.15948178834815
+Croatia,HRV,1969,Urban population growth (annual %),SP.URB.GROW,3.32114884974898
+Croatia,HRV,1968,Urban population growth (annual %),SP.URB.GROW,3.40474586770001
+Croatia,HRV,1967,Urban population growth (annual %),SP.URB.GROW,3.47629323238895
+Croatia,HRV,1966,Urban population growth (annual %),SP.URB.GROW,3.56770615951878
+Croatia,HRV,1965,Urban population growth (annual %),SP.URB.GROW,3.57269590001128
+Croatia,HRV,1964,Urban population growth (annual %),SP.URB.GROW,3.60823422870096
+Croatia,HRV,1963,Urban population growth (annual %),SP.URB.GROW,3.69810920709359
+Croatia,HRV,1962,Urban population growth (annual %),SP.URB.GROW,3.75258754721383
+Croatia,HRV,1961,Urban population growth (annual %),SP.URB.GROW,3.5485834139734
+Croatia,HRV,1960,Urban population growth (annual %),SP.URB.GROW,3.50396276488703
+Croatia,HRV,2018,Urban population,SP.URB.TOTL,2328791
+Croatia,HRV,2017,Urban population,SP.URB.TOTL,2337248
+Croatia,HRV,2016,Urban population,SP.URB.TOTL,2354458
+Croatia,HRV,2015,Urban population,SP.URB.TOTL,2360534
+Croatia,HRV,2014,Urban population,SP.URB.TOTL,2370234
+Croatia,HRV,2013,Urban population,SP.URB.TOTL,2370674
+Croatia,HRV,2012,Urban population,SP.URB.TOTL,2368751
+Croatia,HRV,2011,Urban population,SP.URB.TOTL,2368126
+Croatia,HRV,2010,Urban population,SP.URB.TOTL,2369143
+Croatia,HRV,2009,Urban population,SP.URB.TOTL,2367290
+Croatia,HRV,2008,Urban population,SP.URB.TOTL,2362537
+Croatia,HRV,2007,Urban population,SP.URB.TOTL,2355577
+Croatia,HRV,2006,Urban population,SP.URB.TOTL,2348849
+Croatia,HRV,2005,Urban population,SP.URB.TOTL,2341055
+Croatia,HRV,2004,Urban population,SP.URB.TOTL,2330812
+Croatia,HRV,2003,Urban population,SP.URB.TOTL,2322932
+Croatia,HRV,2002,Urban population,SP.URB.TOTL,2315000
+Croatia,HRV,2001,Urban population,SP.URB.TOTL,2306414
+Croatia,HRV,2000,Urban population,SP.URB.TOTL,2387324
+Croatia,HRV,1999,Urban population,SP.URB.TOTL,2400611
+Croatia,HRV,1998,Urban population,SP.URB.TOTL,2400581
+Croatia,HRV,1997,Urban population,SP.URB.TOTL,2391671
+Croatia,HRV,1996,Urban population,SP.URB.TOTL,2392886
+Croatia,HRV,1995,Urban population,SP.URB.TOTL,2415305
+Croatia,HRV,1994,Urban population,SP.URB.TOTL,2421285
+Croatia,HRV,1993,Urban population,SP.URB.TOTL,2383868
+Croatia,HRV,1992,Urban population,SP.URB.TOTL,2360573
+Croatia,HRV,1991,Urban population,SP.URB.TOTL,2408141
+Croatia,HRV,1990,Urban population,SP.URB.TOTL,2438225
+Croatia,HRV,1989,Urban population,SP.URB.TOTL,2416381
+Croatia,HRV,1988,Urban population,SP.URB.TOTL,2393676
+Croatia,HRV,1987,Urban population,SP.URB.TOTL,2369256
+Croatia,HRV,1986,Urban population,SP.URB.TOTL,2343584
+Croatia,HRV,1985,Urban population,SP.URB.TOTL,2317187
+Croatia,HRV,1984,Urban population,SP.URB.TOTL,2290391
+Croatia,HRV,1983,Urban population,SP.URB.TOTL,2263306
+Croatia,HRV,1982,Urban population,SP.URB.TOTL,2235415
+Croatia,HRV,1981,Urban population,SP.URB.TOTL,2208313
+Croatia,HRV,1980,Urban population,SP.URB.TOTL,2175007
+Croatia,HRV,1979,Urban population,SP.URB.TOTL,2141029
+Croatia,HRV,1978,Urban population,SP.URB.TOTL,2103222
+Croatia,HRV,1977,Urban population,SP.URB.TOTL,2062157
+Croatia,HRV,1976,Urban population,SP.URB.TOTL,2020532
+Croatia,HRV,1975,Urban population,SP.URB.TOTL,1979180
+Croatia,HRV,1974,Urban population,SP.URB.TOTL,1939336
+Croatia,HRV,1973,Urban population,SP.URB.TOTL,1900310
+Croatia,HRV,1972,Urban population,SP.URB.TOTL,1862071
+Croatia,HRV,1971,Urban population,SP.URB.TOTL,1824267
+Croatia,HRV,1970,Urban population,SP.URB.TOTL,1773549
+Croatia,HRV,1969,Urban population,SP.URB.TOTL,1718390
+Croatia,HRV,1968,Urban population,SP.URB.TOTL,1662257
+Croatia,HRV,1967,Urban population,SP.URB.TOTL,1606614
+Croatia,HRV,1966,Urban population,SP.URB.TOTL,1551723
+Croatia,HRV,1965,Urban population,SP.URB.TOTL,1497338
+Croatia,HRV,1964,Urban population,SP.URB.TOTL,1444787
+Croatia,HRV,1963,Urban population,SP.URB.TOTL,1393585
+Croatia,HRV,1962,Urban population,SP.URB.TOTL,1342990
+Croatia,HRV,1961,Urban population,SP.URB.TOTL,1293527
+Croatia,HRV,1960,Urban population,SP.URB.TOTL,1248430
+Croatia,HRV,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.947
+Croatia,HRV,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.667
+Croatia,HRV,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.403
+Croatia,HRV,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.155
+Croatia,HRV,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.923
+Croatia,HRV,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.706
+Croatia,HRV,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.506
+Croatia,HRV,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.322
+Croatia,HRV,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.155
+Croatia,HRV,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.987
+Croatia,HRV,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.819
+Croatia,HRV,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.651
+Croatia,HRV,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.483
+Croatia,HRV,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.315
+Croatia,HRV,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.147
+Croatia,HRV,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.979
+Croatia,HRV,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.81
+Croatia,HRV,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.642
+Croatia,HRV,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.428
+Croatia,HRV,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.198
+Croatia,HRV,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.968
+Croatia,HRV,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.739
+Croatia,HRV,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.509
+Croatia,HRV,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.279
+Croatia,HRV,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.048
+Croatia,HRV,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.818
+Croatia,HRV,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.588
+Croatia,HRV,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.357
+Croatia,HRV,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.037
+Croatia,HRV,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.687
+Croatia,HRV,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.338
+Croatia,HRV,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.987
+Croatia,HRV,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.637
+Croatia,HRV,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.287
+Croatia,HRV,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.937
+Croatia,HRV,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.587
+Croatia,HRV,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.237
+Croatia,HRV,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.887
+Croatia,HRV,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.285
+Croatia,HRV,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.597
+Croatia,HRV,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.911
+Croatia,HRV,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.227
+Croatia,HRV,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.545
+Croatia,HRV,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.864
+Croatia,HRV,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.186
+Croatia,HRV,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.511
+Croatia,HRV,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.839
+Croatia,HRV,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.168
+Croatia,HRV,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.196
+Croatia,HRV,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.13
+Croatia,HRV,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.076
+Croatia,HRV,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.03
+Croatia,HRV,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.997
+Croatia,HRV,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.977
+Croatia,HRV,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.972
+Croatia,HRV,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.979
+Croatia,HRV,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.001
+Croatia,HRV,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.04
+Croatia,HRV,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.154
